@@ -1,4 +1,4 @@
-### FAST, INTUITIVE, DINAMIC AND RESPONSIVE. 
+### FAST, SAFE, INTUITIVE AND RESPONSIVE. 
 
 <!--
 **aitorzaldua/aitorzaldua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
