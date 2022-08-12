@@ -8,6 +8,6 @@
 
 ▻ 8 years of experience in software development and management for IT companies.
 
-#### Passionate about future challenges, I am currently working as a web3 developer which fits perfectly with my usual priorities: Security, Resilience and customer oriented.
+#### Passionate about future challenges, I am currently working as a web3 developer, a new technology that fits perfectly with my usual priorities: Security, Resilience and customer oriented.
 
 
