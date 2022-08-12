@@ -1,4 +1,3 @@
-### RELIEABLE, FAST, ADAPTABLE AND INTUITIVE SOFTWARE.
-## Hi, I am Aitor Zaldua, Smart Contract and Blockchain Developer.
+![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerAZ.png)
 
 
