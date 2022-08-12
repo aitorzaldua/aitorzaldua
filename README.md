@@ -8,7 +8,7 @@
 
 ▻ 8 years of experience in software development and management for IT companies.
 
-#### Passionate about future challenges, I am currently working as a web3 developer, a new technology that fits perfectly with my usual priorities: Security, Resilience and customer oriented.
+#### Passionate about forward-looking challenges, I am currently working as a web3 developer, a new technology that fits perfectly with my usual priorities: Security, Resilience and customer oriented.
 
 ## Some technologies I use:
 ![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
