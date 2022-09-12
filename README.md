@@ -6,7 +6,7 @@
 
 ▻ 12 years of experience as a Business Continuity and Disaster Recovery engineer and Account Manager, auditing every day the security of their IT services and performing annual resilience audits for each client.
 
-▻ 8 years of experience in software development and management for IT companies.
+▻ 8 years of experience in Software Development and Management for IT companies.
 
 During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, Altura Markets, Inversis, Telefonica/Movistar, Vodafone, Adecco among others.
 
