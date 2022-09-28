@@ -27,5 +27,4 @@ During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, 
 
 ▻ Talking and sharing in [Twitter](https://twitter.com/azdraft_)
 
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fazdraft_)
 
