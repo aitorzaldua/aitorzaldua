@@ -1,4 +1,6 @@
-[![]([https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aitorzaldua.medium.com/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-zaldua/) 
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azdraft_) 
+[![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aitorzaldua.medium.com/)
 
 
 ![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerAZ.png)
@@ -26,8 +28,10 @@ During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, 
 
 ## Find me:
 
-▻ CV in [linkedin](https://www.linkedin.com/in/aitor-zaldua/)
+▻ [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-zaldua/) 
 
-▻ Talking and sharing in [Twitter](https://twitter.com/azdraft_)
+▻ [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azdraft_) 
+
+▻ [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aitorzaldua.medium.com/)
 
 
