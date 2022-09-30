@@ -1,3 +1,5 @@
+![https://aitorzaldua.medium.com/](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 ![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerAZ.png)
 
 ## Hi, I am Aitor Zaldua, Smart Contract and Blockchain Developer.
