@@ -1,4 +1,4 @@
-[medium](https://aitorzaldua.medium.com/)
+[![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](https://aitorzaldua.medium.com/)
 
 
 ![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerAZ.png)
