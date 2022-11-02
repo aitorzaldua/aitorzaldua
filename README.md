@@ -21,7 +21,7 @@ During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, 
 
 #### Other Enviroments I use: Moralis  - Holochain
 
-## Find me:
+## Find me here:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-zaldua/) 
 
