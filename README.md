@@ -22,7 +22,9 @@ During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, 
 #### Other Enviroments I use: 
 
 SDKs: Moralis  - Alchemy
+
 Tools: Hardhat - Foundry
+
 Chains: Ethereum - Polygon - BNB Chain
 
 ## Find me here:
