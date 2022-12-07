@@ -1,12 +1,12 @@
 ![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerAZ.png)
 
-## Hi, I am Aitor Zaldua, Smart Contract and FullStack Blockchain Developer.
+## Hi, I am Aitor Zaldua, Smart Contract and FullStack Blockchain Developer and Security Auditor.
 
 #### I have really enjoyed my career up to this point, always with a customer first mentality and building solid and, above all, safe projects. My experience covers two main blocks:
 
-▻ 12 years of experience as a Business Continuity and Disaster Recovery engineer and Account Manager, auditing every day the security of their IT services and performing annual resilience audits for each client.
+▻ 2008/2021: 13 years of experience as a Business Continuity and Disaster Recovery engineer and Account Manager, auditing every day the security of their IT services and performing annual resilience audits for each client.
 
-▻ 8 years of experience in Software Development and Management for IT companies.
+▻ 1998/2008: 12 years of experience in Software Development and Management for IT companies.
 
 During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, Inversis, Altura Markets, Telefonica/Movistar, Vodafone, Adecco among others.
 
@@ -19,7 +19,11 @@ During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, 
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### Other Enviroments I use: Moralis  - Holochain
+#### Other Enviroments I use: 
+
+SDKs: Moralis  - Alchemy
+Tools: Hardhat - Foundry
+Chains: Ethereum - Polygon - BNB Chain
 
 ## Find me here:
 
