@@ -2,9 +2,11 @@
 
 ## Hi, I am Aitor Zaldua, Smart Contract and FullStack Blockchain Developer and Security Auditor.
 
-#### I have really enjoyed my career up to this point, always with a customer first mentality and building solid and, above all, safe projects. My experience covers two main blocks:
+#### I have really enjoyed my career up to this point, always with a customer first mentality and building solid and, above all, safe projects. My experience covers the following blocks:
 
-▻ 2008/2021: 12 years of experience as a Business Continuity and IT security engineer and Account Manager, auditing every day the security of their IT services and performing annual resilience audits for each client.
+▻ 2020/2022: 2 years of experience working in the Blockchain ecosystem. Currently working as a Full Stack Developer, learning to audit smart contracts and teaching about Solidity. 
+
+▻ 2008/2020: 12 years of experience as a Business Continuity and IT security engineer and Account Manager, auditing every day the security of their IT services and performing annual resilience audits for each client.
 
 ▻ 2000/2008: 8 years of experience in Security and Network Management for IT companies, including Unix/Linux management, scripting and monitoring.
 
