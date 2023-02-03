@@ -4,9 +4,9 @@
 
 #### I have really enjoyed my career up to this point, always with a customer first mentality and building solid and, above all, safe projects. My experience covers two main blocks:
 
-▻ 2008/2021: 13 years of experience as a Business Continuity and Disaster Recovery engineer and Account Manager, auditing every day the security of their IT services and performing annual resilience audits for each client.
+▻ 2008/2021: 12 years of experience as a Business Continuity and IT security engineer and Account Manager, auditing every day the security of their IT services and performing annual resilience audits for each client.
 
-▻ 1998/2008: 12 years of experience in Software Development and Management for IT companies.
+▻ 2000/2008: 8 years of experience in Security and Network Management for IT companies, including Unix/Linux management, scripting and monitoring.
 
 During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, Inversis, Altura Markets, Telefonica/Movistar, Vodafone, Adecco among others.
 
