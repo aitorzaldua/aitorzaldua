@@ -1,6 +1,6 @@
 ![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerAZ.png)
 
-## Hi, I am Aitor Zaldua, Smart Contract and FullStack Blockchain Developer and Security Auditor.
+## Hi, I am Aitor Zaldua, Smart Contract and FullStack Blockchain Developer and Security Researcher.
 
 #### I have really enjoyed my career up to this point, always with a customer first mentality and building solid and, above all, safe projects. My experience covers the following blocks:
 
