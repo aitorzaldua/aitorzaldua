@@ -1,4 +1,4 @@
-![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerAZ.png)
+![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerDD.png)
 
 ## Hi, I am Aitor Zaldua, Smart Contract and FullStack Blockchain Developer and Security Researcher.
 
