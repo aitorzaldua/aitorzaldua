@@ -19,7 +19,7 @@ During this time I have had clients such as JPMorgan, Credit Agricole, BBVA, Inv
 
 ![](https://badgen.net/badge/Product/OpenZeppelin/purple?) ![](https://badgen.net/badge/Product/Chainlink/purple?)
 
-![](https://badgen.net/badge/Language/Solidity/yellow?) ![](https://badgen.net/badge/Language/JavaSCript/yellow?)
+![](https://badgen.net/badge/Language/Solidity/yellow?) ![](https://badgen.net/badge/Language/JavaScript/yellow?)
 
 ![](https://badgen.net/badge/Network/Ethereum/blue?) ![](https://badgen.net/badge/Network/Polygon/blue?) ![](https://badgen.net/badge/Network/BNBchain/blue?) 
 
