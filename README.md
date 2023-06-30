@@ -21,12 +21,9 @@ During this time I have had clients such as JPMorgan, Credit Agricole, BBVA, Inv
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-!\[my badge\](https://badgen.net/badge/Framework/Foundry/red?icon=twitter)
+![](https://badgen.net/badge/Framework/Hardhat/red?) ![](https://badgen.net/badge/Framework/Foundry/red?) 
 
-
-!\[my badge\](https://badgen.net/badge/Framework/Hardhat/red?)
-
-![](https://badgen.net/badge/Framework/Hardhat/red?) 
+![](https://badgen.net/badge/Languages/Solidity/yellow?) ![](https://badgen.net/badge/Languages/JavaSCript/yellow?) 
 
 
 #### Other Enviroments I use: 
