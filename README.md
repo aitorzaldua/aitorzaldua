@@ -29,9 +29,7 @@ During this time I have had clients such as JPMorgan, Credit Agricole, BBVA, Inv
 ## Find me here:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aitor-zaldua/) 
-
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/azdraft_) 
-
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aitorzaldua.medium.com/)
 
 
