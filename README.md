@@ -23,16 +23,12 @@ During this time I have had clients such as JPMorgan, Credit Agricole, BBVA, Inv
 
 ![](https://badgen.net/badge/Framework/Hardhat/red?) ![](https://badgen.net/badge/Framework/Foundry/red?) 
 
-![](https://badgen.net/badge/Languages/Solidity/yellow?) ![](https://badgen.net/badge/Languages/JavaSCript/yellow?) 
+![](https://badgen.net/badge/Language/Solidity/yellow?) ![](https://badgen.net/badge/Language/JavaSCript/yellow?)
 
+![](https://badgen.net/badge/Network/Ethereum/blue?) ![](https://badgen.net/badge/Network/Polygon/blue?) ![](https://badgen.net/badge/Network/BNBchain/blue?) 
 
-#### Other Enviroments I use: 
+![](https://badgen.net/badge/SDK/Moralis/green?) ![](https://badgen.net/badge/SDK/Alchemy/green?)
 
-SDKs: Moralis  - Alchemy
-
-Tools: Hardhat - Foundry
-
-Chains: Ethereum - Polygon - BNB Chain
 
 ## Find me here:
 
