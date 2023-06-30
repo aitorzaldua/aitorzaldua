@@ -1,18 +1,17 @@
 ![image](https://github.com/aitorzaldua/aitorzaldua/blob/main/bannerGit.png)
 
-## Hi, I am Aitor Zaldua, Smart Contract and FullStack Blockchain Developer and Security Researcher.
+## Hi, I am Aitor Zaldua, Smart Contract Security Researcher and Blockchain Instructor.
 
-#### I have really enjoyed my career up to this point, always with a customer first mentality and building solid and, above all, safe projects. My experience covers the following blocks:
+#### My focus has always been on the protection and security of clients and their businesses. My experience covers the following areas:
 
-▻ 2020/2023: Currently working in the Blockchain ecosystem as a Full Stack Developer, and Blockchain Instructor and transition to Security Researcher and Smart Contract Auditor working with with the Bug Bounty platforms Code4arena, Sherlock and Hats. 
+▻ 2020/Current: As a security researcher, I perform security analysis and smart contract auditing services, investigating potential vulnerabilities and overseeing the implementation of secure smart contract protocols. 
 
-▻ 2008/2020: 12 years of experience as a Business Continuity and IT security engineer and Account Manager, auditing every day the security of their IT services and performing annual resilience audits for each client.
+▻ 2008/2020: 12 years' experience as a Business Continuity and IT Security Engineer and Account Manager, reviewing the security of their IT services on a daily basis and performing annual resilience audits for each client.
 
-▻ 2000/2008: 8 years of experience in Security and Network Management for IT companies, including Unix/Linux management, scripting and monitoring.
+▻ 2000/2008: 8 years' experience in security and network management for IT companies, including Unix/Linux management, scripting and monitoring.
 
-During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, Inversis, Altura Markets, Telefonica/Movistar, Vodafone, Adecco among others.
+During this time I have had clients such as JPMorgan, Credit Agricole, BBVA, Inversis, Altura Markets, Telefonica/Movistar, Vodafone, Adecco and others.
 
-#### Passionate about forward-looking challenges, I am currently working as a web3 developer, a new technology that fits perfectly with my usual priorities: Security, Resilience and Customer Oriented.
 
 ## Some technologies I use:
 ![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -20,6 +19,8 @@ During these stages I have had clients such as JPMorgan, Credit Agricole, BBVA, 
 ![](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) 
 
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![] (https://img.shields.io/badge/Framework-Hardhat)
 
 #### Other Enviroments I use: 
 
