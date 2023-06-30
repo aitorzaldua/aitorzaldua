@@ -14,14 +14,10 @@ During this time I have had clients such as JPMorgan, Credit Agricole, BBVA, Inv
 
 
 ## Some technologies I use:
-![](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324) ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-![](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge) ![](https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white) 
-
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 
 ![](https://badgen.net/badge/Framework/Hardhat/red?) ![](https://badgen.net/badge/Framework/Foundry/red?) 
+
+![](https://badgen.net/badge/Product/OpenZeppelin/purple?) ![](https://badgen.net/badge/Product/Chainlink/purple?)
 
 ![](https://badgen.net/badge/Language/Solidity/yellow?) ![](https://badgen.net/badge/Language/JavaSCript/yellow?)
 
